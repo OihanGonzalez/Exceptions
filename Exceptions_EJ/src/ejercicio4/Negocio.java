@@ -15,5 +15,6 @@ public class Negocio {
         int resultado = 100 / numero;
 
         System.out.println("Resultado: " + resultado);
+        sc.close();
     }
 }
