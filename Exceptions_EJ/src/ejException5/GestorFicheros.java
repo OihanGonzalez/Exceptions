@@ -1,4 +1,4 @@
-package ejercicio5;
+package ejException5;
 
 import java.io.FileReader;
 import java.io.IOException;

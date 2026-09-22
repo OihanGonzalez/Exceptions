@@ -1,4 +1,4 @@
-package ejercicio4;
+package ejException4;
 
 public class ManejadorExcepciones {
 

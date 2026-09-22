@@ -1,4 +1,4 @@
-package ejercicio5;
+package ejException5;
 
 public class TransferenciaException extends Exception {
     public TransferenciaException(String mensaje) {

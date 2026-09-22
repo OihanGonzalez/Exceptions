@@ -1,4 +1,4 @@
-package ejercicio4;
+package ejException4;
 
 import java.util.Scanner;
 
