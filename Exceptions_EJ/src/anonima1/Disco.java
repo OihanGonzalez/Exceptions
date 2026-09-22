@@ -1,4 +1,4 @@
-package ejercicio1;
+package anonima1;
 
 public class Disco implements Comparable<Object> {
     private String nombre;

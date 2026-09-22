@@ -1,4 +1,4 @@
-package ejercicio1;
+package anonima1;
 
 import java.util.ArrayList;
 import java.util.Collections;
