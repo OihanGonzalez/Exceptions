@@ -1,4 +1,4 @@
-package anonima1;
+package ej_anonima1;
 
 public class Disco implements Comparable<Object> {
     private String nombre;

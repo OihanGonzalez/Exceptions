@@ -1,4 +1,4 @@
-package anonima1;
+package ej_anonima1;
 
 import java.util.ArrayList;
 import java.util.Collections;
