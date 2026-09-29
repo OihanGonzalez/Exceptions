@@ -62,7 +62,7 @@ public class Ejercicio3 {
 				break;
 			case "/":
 				try {
-					resultado = numero1 / numero2;
+					resultado = (float) numero1 / (float) numero2;
 				} catch (ArithmeticException e) {
 					System.out.println("La ecuación no es válida, el divisor no puede ser 0");
 					ok = false;
