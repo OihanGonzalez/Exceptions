@@ -1,4 +1,4 @@
-package Lambdas.LamdasEj2;
+package Lambdas.LambdasEj2;
 
 public class Main {
 
