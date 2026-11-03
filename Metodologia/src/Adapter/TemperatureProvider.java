@@ -1,5 +1,5 @@
 package Adapter;
 
-public class TemperatureProvider {
-
+public interface TemperatureProvider {
+	float getTemperatureCelsius();
 }
